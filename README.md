@@ -33,26 +33,30 @@ en construcció
 
 ---
 
-## Configuracio
-Incidències i solucions:
-Missatge d'error exacte
-Quan: fase i context.
-Causa: per què passava.
-Solució: què vam fer.
-Detectada per: @usuari
-Decisions tècniques (què heu triat, per què, alternatives)
-Reflexions tècniques
-
-
-
-
----
 ## Arquitectura de xarxa
 Pendent de dissenyar
 
-
 ---
+## Configuracio
 
-# Incidencias
--Cap error avui
+[Fitxer]: [Funció i configuració principal]
+
+## Incidències i solucions
+- **Error:** [Missatge exacte]
+- **Quan:** [Fase i context]
+- **Causa:** [Motiu de l'error]
+- **Solució:** [Solució aplicada]
+- **Detectada per:** @usuari
+
+## Decisions tècniques
+- **Decisió:** [Opció escollida]
+- **Motiu:** [Per què]
+- **Alternatives:** [Altres opcions]
+
+## Reflexions tècniques
+- **Aprenentatges:** [Què he après]
+- **Dificultats:** [Problemes trobats]
+- **Millores:** [Possibles millores]
+
+
 
